@@ -2,7 +2,7 @@ import { Routes, Route, Navigate } from "react-router-dom"
 
 
 import HomePage from "./pages/home/HomePage.jsx"
-import SignUpPage from "./pages/auth/signup/signUpPage.jsx"
+import SignUpPage from "./pages/auth/signup/SignUpPage.jsx"
 import LoginPage from "./pages/auth/login/LoginPage.jsx"
 import NotificationPage from "./pages/notification/NotificationPage.jsx"
 import ProfilePage from "./pages/profile/ProfilePage.jsx"
