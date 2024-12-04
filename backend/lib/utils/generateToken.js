@@ -11,5 +11,6 @@ export const generateTokenAndSetCookie = async (userId, res) => {
         sameSite: "None",
         // secure: process.env.NODE_ENV !== 'development'
         secure : true
+       
     })
 }
